@@ -17,3 +17,56 @@ header .slogan
   background-color: transparent;
   text-align: right;
 }
+
+nav 
+{
+  position: absolute;
+  top: 10%;
+  left: 0%;
+  width: 22%;
+  height: 80%;
+  background-color: #eEF2D8;
+  padding: padding-left: 0px;
+}
+
+nav ul
+{
+  list-style: none;
+  padding-left: 0px;
+  text-align: left;
+}
+
+nav a:link
+{
+  text-decoration: none;
+  font: 90% Georgia;
+  color: rgb(145,3,250);
+  background-color: transparent;
+}
+
+nav a:visited
+{
+text-decoration: none;
+font: 90% Georgia;
+color: rgb(29,9,244);
+background-color: transparent;
+}
+  
+
+nav a:hover
+{
+color: green;
+}
+
+nav li
+{
+font: 90% Georgia;
+border-bottom: 1px dotted black;
+}
+
+nav h2
+{
+  font: 110% Georgia;
+  color: rgb(201,12,249);
+  border-bottom: 1px dotted rgb(247,150,4);
+}

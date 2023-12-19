@@ -70,3 +70,36 @@ nav h2
   color: rgb(201,12,249);
   border-bottom: 1px dotted rgb(247,150,4);
 }
+
+main 
+{
+  position: absolute;
+  top: 10%;
+  left: 22%;
+  width: 78%;
+  height: 80%;
+  padding: padding-left:0px;
+  overflow: scroll;
+}
+ 
+main h1
+{
+  font: 150% Georgia; 
+  font-weight: 800;
+  color: rgb(88,15,247);
+}
+
+main h2
+{
+  font: 130% Georgia;
+  font-weight: 600;
+  font-style: italic;
+  color: rgb(66,50,231);
+}
+
+main p
+{
+font: 100% Georgia;
+color: rgb(25,25,25);
+text-align: justify;
+}

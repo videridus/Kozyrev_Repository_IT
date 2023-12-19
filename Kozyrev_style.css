@@ -1,0 +1,19 @@
+header 
+{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 10%;
+  background-color: #000000;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+header .slogan 
+{
+  font: 150% Arial;
+  color: rgb(225, 246, 243);
+  background-color: transparent;
+  text-align: right;
+}
